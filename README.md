@@ -30,39 +30,21 @@ online-course-recommendation-system/
 
 │
 
-├── notebooks/
-
-│ └── online_course_recommendation.ipynb
-
-│
-
-├── streamlit_app.py
+├── README.md
 
 ├── requirements.txt
 
-├── README.md
+│
+
+├── notebooks/
+
+│   └── online_course_recommendation.ipynb
 
 │
 
 ├── data/
 
-│ └── courses.csv
-
-│
-
-├── models/
-
-│ ├── item_similarity.npy
-
-│ ├── user_to_idx.pkl
-
-│ ├── course_to_idx.pkl
-
-│ ├── idx_to_course_id.pkl
-
-│ ├── content_df.pkl
-
-│ └── aggregated_interaction_df.pkl
+│   └── courses.csv
 
 
 ## How to Run
