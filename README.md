@@ -22,7 +22,8 @@ This project builds a hybrid online course recommendation engine using popularit
 **Conclusion:** Item–Item KNN achieved the best accuracy and is used in the deployed recommendation system.
 
 ## Demo Screenshot
-![Recommendation Demo](demo.png)
+<img width="1920" height="1080" alt="recommendation_demo" src="https://github.com/user-attachments/assets/d6126a94-1ac3-4bad-bbca-566f1b111dd7" />
+
 
 ## Project Structure
 online-course-recommendation-system/
